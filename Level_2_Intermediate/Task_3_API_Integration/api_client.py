@@ -67,3 +67,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    user_input: str = input("press any key to exit...")
